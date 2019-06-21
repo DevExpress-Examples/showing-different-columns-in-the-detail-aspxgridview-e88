@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Showing different columns in the Detail ASPxGridView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e88)**
+<!-- run online end -->
 
 
 <p>This demo shows how to use the Detail ASPxGridView DataBound event to hide columns.  In this project a detail gridView shows the ProductName column only if it belongs to a master row with the odd key field value</p>
